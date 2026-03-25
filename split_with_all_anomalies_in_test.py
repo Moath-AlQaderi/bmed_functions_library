@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 The below functions provides a version of the conventional train_test_split fine-tuned towards anomaly detection task pieplines. 
 It splits data into a train set and test set, while ensuring that all samples of the anomaly class (e.g., rare disease) are present 
